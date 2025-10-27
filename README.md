@@ -29,9 +29,10 @@ https://colab.research.google.com/drive/1CpodnEXJyY23hlV9l4it72zANn1ZzzOF?usp=sh
 
 # How to run 
 
+1. Open Google Colab link given above
+2. Run the Code Cell
+3. graph will appear directly below the cell!
 
+# 🏁 Conclusion
 
-
-
-
-🧩 Ensure that each visualization answers a specific analytical question.
+Data visualization plays a vital role in transforming raw data into meaningful insights. By using tools such as Matplotlib, Seaborn, and Tableau, complex datasets can be represented clearly through charts, graphs, and dashboards. These visuals not only make data more understandable but also help identify trends, patterns, and outliers that might otherwise go unnoticed.
